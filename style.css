@@ -1,0 +1,34 @@
+header { border-bottom: 1px solid #000; }
+header > h1 { display: inline-block; }
+header span { margin-left: 400px; }
+
+body{
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+#banner {
+    color: white;
+    background-color: dodgerblue;
+    padding: 15px
+}
+
+body>header>h1>nav>ul>li{
+    text-align: right;
+}
+
+footer {
+    color: white;
+    background: dodgerblue;
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+    font-family: Arial,Arial, Helvetica, sans-serif;
+}
+
+aside {
+    float: left;
+    border: 2px;
+}
